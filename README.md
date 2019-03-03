@@ -6,3 +6,7 @@ essay_link.txt: Список URL этих текстов
 file_list.csv: каталог
 
 Скачанные и обработанные файлы находятся в https://drive.google.com/drive/u/0/folders/1LV1WHVbEYEPd_gXw8IDgNq41U6Jw0GZO.
+
+Total wordcount = 7 million
+
+Временя не достаточно, потому что проект начиналося поздно. Поэтому  файлы mystem - только часть результатов оригинальных файлов.
